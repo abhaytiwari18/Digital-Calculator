@@ -3,9 +3,6 @@
 A simple, clean, and responsive calculator built using **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations and features a modern UI with smooth button interactions.
 
-🔗 **Live Demo:**  
-https://codepen.io/Abhay-Tiwari-the-flexboxer/pen/EaYxmLR
-
 ---
 
 ## 📌 Features
